@@ -1,0 +1,412 @@
+{
+  "kobold": [
+    {
+      "name": "GREEN",
+      "rgb": [
+        69,
+        141,
+        113,
+        91,
+        167,
+        128,
+        9
+      ]
+    },
+    {
+      "name": "YELLOW",
+      "rgb": [
+        241,
+        177,
+        77,
+        255,
+        226,
+        170,
+        4
+      ]
+    },
+    {
+      "name": "RED",
+      "rgb": [
+        230,
+        27,
+        57,
+        253,
+        232,
+        239,
+        14
+      ]
+    },
+    {
+      "name": "PURPLE",
+      "rgb": [
+        196,
+        148,
+        207,
+        246,
+        188,
+        96,
+        10
+      ]
+    },
+    {
+      "name": "LIGHT_GREEN",
+      "rgb": [
+        170,
+        208,
+        47,
+        230,
+        214,
+        104,
+        5
+      ]
+    },
+    {
+      "name": "OLD_BLUE",
+      "rgb": [
+        173,
+        138,
+        128,
+        118,
+        151,
+        180,
+        2
+      ]
+    },
+    {
+      "name": "DARK_GREY",
+      "rgb": [
+        92,
+        92,
+        110,
+        198,
+        193,
+        165,
+        7
+      ]
+    },
+    {
+      "name": "BROWN",
+      "rgb": [
+        200,
+        145,
+        112,
+        253,
+        228,
+        198,
+        12
+      ]
+    },
+    {
+      "name": "DARK_BLUE",
+      "rgb": [
+        65,
+        84,
+        116,
+        104,
+        137,
+        146,
+        11
+      ]
+    },
+    {
+      "name": "LIGHT_BLUE",
+      "rgb": [
+        100,
+        163,
+        206,
+        138,
+        235,
+        242,
+        3
+      ]
+    },
+    {
+      "name": "SILVER",
+      "rgb": [
+        136,
+        136,
+        134,
+        255,
+        255,
+        255,
+        0
+      ]
+    }
+  ],
+  "goblin_skin": [
+    {
+      "name": "LIGHT_GREEN",
+      "rgb": [
+        213,
+        239,
+        150
+      ]
+    },
+    {
+      "name": "MEDIUM_GREEN",
+      "rgb": [
+        189,
+        165,
+        91
+      ]
+    },
+    {
+      "name": "DARK_GREEN",
+      "rgb": [
+        160,
+        183,
+        135
+      ]
+    },
+    {
+      "name": "LIGHT_YELLOW",
+      "rgb": [
+        234,
+        176,
+        102
+      ]
+    },
+    {
+      "name": "LIGHT_BLUE",
+      "rgb": [
+        187,
+        203,
+        252
+      ]
+    }
+  ],
+  "goblin_hair": [
+    {
+      "name": "PURPLE",
+      "rgb": [
+        103,
+        39,
+        123
+      ]
+    },
+    {
+      "name": "ORANGE",
+      "rgb": [
+        251,
+        153,
+        56
+      ]
+    },
+    {
+      "name": "BLACK",
+      "rgb": [
+        30,
+        33,
+        38
+      ]
+    },
+    {
+      "name": "BLUE",
+      "rgb": [
+        88,
+        83,
+        186
+      ]
+    },
+    {
+      "name": "BROWN",
+      "rgb": [
+        63,
+        35,
+        34
+      ]
+    },
+    {
+      "name": "PINK",
+      "rgb": [
+        247,
+        102,
+        109
+      ]
+    },
+    {
+      "name": "RED",
+      "rgb": [
+        241,
+        69,
+        49
+      ]
+    },
+    {
+      "name": "GREEN",
+      "rgb": [
+        75,
+        143,
+        106
+      ]
+    }
+  ],
+  "goblin_eyes": [
+    {
+      "name": "RED",
+      "rgb": [
+        255,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "VIOLET",
+      "rgb": [
+        132,
+        30,
+        156
+      ]
+    },
+    {
+      "name": "YELLOW",
+      "rgb": [
+        243,
+        247,
+        0
+      ]
+    },
+    {
+      "name": "BROWN",
+      "rgb": [
+        105,
+        60,
+        9
+      ]
+    },
+    {
+      "name": "TURKEY",
+      "rgb": [
+        0,
+        206,
+        217
+      ]
+    },
+    {
+      "name": "BLUE",
+      "rgb": [
+        0,
+        0,
+        255
+      ]
+    }
+  ],
+  "dj_t": [
+    "colorSpots",
+    "neck",
+    "head",
+    "snout",
+    "midSectionR",
+    "midSectionL",
+    "innerCheekLR",
+    "innerCheekRR",
+    "gayL",
+    "gayR",
+    "legR",
+    "legL",
+    "shinL",
+    "toesL",
+    "kneeL",
+    "curvesL",
+    "shinR",
+    "toesR",
+    "kneeR",
+    "curvesR",
+    "sideL",
+    "sideR",
+    "hip",
+    "torsoL",
+    "torsoR",
+    "armR",
+    "lowerArmR",
+    "ellbowR",
+    "armL",
+    "lowerArmL",
+    "ellbowL",
+    "hornUL",
+    "hornUR",
+    "tail",
+    "tail2",
+    "tail3",
+    "tail4",
+    "tail5",
+    "hornDL2",
+    "hornDR2",
+    "hornDR3M",
+    "hornDL3M",
+    "frecklesAL1",
+    "frecklesAL2",
+    "frecklesAR1",
+    "frecklesAR2",
+    "frecklesHL1",
+    "frecklesHL2",
+    "frecklesHR1",
+    "frecklesHR2"
+  ],
+  "dj_u": [
+    "boobR",
+    "boobL",
+    "frontNeck",
+    "Rside",
+    "Lside",
+    "frontAndInside",
+    "innerCheekLL",
+    "innerCheekRL",
+    "layer",
+    "layer2",
+    "down",
+    "down2",
+    "down3",
+    "down4",
+    "down5",
+    "fuckhole",
+    "hornDR3S",
+    "hornDL3S",
+    "assholeCoverUp",
+    "assholeCoverUp2"
+  ],
+  "dy_D": [
+    "meatTorso",
+    "meatCheekR",
+    "meatCheekL",
+    "meatFootR",
+    "meatFootL",
+    "meatShinR",
+    "meatShinL",
+    "meatLegL",
+    "meatLegR",
+    "nippleR",
+    "nippleL",
+    "preggy",
+    "shoeL",
+    "shoeR",
+    "frontAndInside",
+    "Lside",
+    "Rside",
+    "cheekR",
+    "cheekL",
+    "fuckhole",
+    "head",
+    "nose",
+    "neck",
+    "armL",
+    "lowerArmL",
+    "armR",
+    "lowerArmR",
+    "torso",
+    "LegL",
+    "LegR",
+    "shinL",
+    "shinR"
+  ],
+  "dy_M": [
+    "lashR",
+    "lashL",
+    "closedR",
+    "closedL",
+    "browL",
+    "browR",
+    "closedL",
+    "closedL"
+  ]
+}

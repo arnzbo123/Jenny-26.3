@@ -1,0 +1,10 @@
+{
+  "type": "sexmod:legacy_building",
+  "biomes": "#sexmod:has_structure/jenny",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_box",
+  "spawn_overrides": {},
+  "template": "sexmod:jenny",
+  "max_height_difference": 1,
+  "foundation": true
+}

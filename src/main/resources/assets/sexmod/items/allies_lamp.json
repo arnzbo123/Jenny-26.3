@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "sexmod:item/allies_lamp",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}

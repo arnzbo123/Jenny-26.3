@@ -1,0 +1,2243 @@
+{
+ "jenny": {
+  "attackSound": [
+   {
+    "vanilla": "entity.player.attack.strong",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "stripMSG1": [
+   {
+    "array": "GIRLS_JENNY_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG1": [
+   {
+    "array": "GIRLS_JENNY_HUH",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG2": [
+   {
+    "array": "MISC_PLOB",
+    "index": 0,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG3": [
+   {
+    "array": "GIRLS_JENNY_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG4": [
+   {
+    "array": "MISC_PLOB",
+    "index": 0,
+    "volume": 0.25,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG1": [
+   {
+    "array": "GIRLS_JENNY_MMM",
+    "index": 8,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG2": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 8,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG3": [
+   {
+    "array": "GIRLS_JENNY_AFTERSESSIONMOAN",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG4": [
+   {
+    "array": "MISC_BELLJINGLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG5": [
+   {
+    "array": "GIRLS_JENNY_HMPH",
+    "index": 1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG6": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 8,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG7": [
+   {
+    "array": "GIRLS_JENNY_GIGGLE",
+    "index": 4,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG8": [
+   {
+    "array": "MISC_PLOB",
+    "index": 0,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG9": [
+   {
+    "array": "GIRLS_JENNY_GIGGLE",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG11": [
+   {
+    "array": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG12": [
+   {
+    "array": "GIRLS_JENNY_BJMOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.2
+   },
+   {
+    "array": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjtMSG1": [
+   {
+    "array": "GIRLS_JENNY_MMM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG1": [
+   {
+    "array": "GIRLS_JENNY_BJMOAN",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG2": [
+   {
+    "array": "GIRLS_JENNY_BJMOAN",
+    "index": 7,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG3": [
+   {
+    "array": "GIRLS_JENNY_AFTERSESSIONMOAN",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG4": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG5": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG6": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG7": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 3,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyGoOnBedMSG1": [
+   {
+    "array": "MISC_BEDRUSTLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyGoOnBedMSG2": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 9,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyGoOnBedMSG3": [
+   {
+    "array": "GIRLS_JENNY_GIGGLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyGoOnBedMSG4": [
+   {
+    "array": "MISC_SLAP",
+    "index": 0,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG1": [
+   {
+    "array": "MISC_TOUCH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG2": [
+   {
+    "array": "MISC_TOUCH",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG3": [
+   {
+    "array": "MISC_BEDRUSTLE",
+    "index": 1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG4": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_MMM",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG5": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyslowMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_MMM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "array": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "array": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "doggyslowMSG2": [
+   {
+    "array": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "doggyfastMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "array": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_JENNY_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggycumMSG1": [
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 2.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 2.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggycumMSG2": [
+   {
+    "array": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 4,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggycumMSG3": [
+   {
+    "array": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 5,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggycumMSG4": [
+   {
+    "array": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 6,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggycumMSG5": [
+   {
+    "array": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 7,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paizuriFastMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_JENNY_MMM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_JENNY_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "paizuriSlowMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paizuriStartMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "ellie": {
+  "hugMSG2": [
+   {
+    "array": "GIRLS_ELLIE_HMPH",
+    "index": 3,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "hugMSG3": [
+   {
+    "array": "GIRLS_ELLIE_HUH",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "hugMSG4": [
+   {
+    "array": "GIRLS_ELLIE_MOMMYHORNY",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "hugMSG5": [
+   {
+    "array": "GIRLS_ELLIE_HUH",
+    "index": 1,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "hugselectedMSG1": [
+   {
+    "array": "GIRLS_ELLIE_HMPH",
+    "index": 3,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "hugselectedMSG2": [
+   {
+    "array": "GIRLS_ELLIE_GIGGLE",
+    "index": 3,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "sitdownMSG1": [
+   {
+    "array": "GIRLS_ELLIE_COMETOMOMMY",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlStartMSG0": [
+   {
+    "array": "GIRLS_ELLIE_GIGGLE",
+    "index": 4,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlStartMSG2": [
+   {
+    "array": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlfastMSG1": [
+   {
+    "array": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlfastdomMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlcumMSG1": [
+   {
+    "array": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlcumMSG2": [
+   {
+    "array": "GIRLS_ELLIE_MOAN",
+    "index": 5,
+    "volume": 3.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlcumMSG3": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   }
+  ],
+  "cowgirlcumMSG5": [
+   {
+    "array": "GIRLS_ELLIE_GOODBOY",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "missionary_cumMSG2": [
+   {
+    "array": "GIRLS_ELLIE_GOODBOY",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "attackSound": [
+   {
+    "vanilla": "entity.player.attack.strong",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "missionary_slowMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_ELLIE_MOAN",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 0.5
+   }
+  ],
+  "missionary_fastMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_ELLIE_MOAN",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 0.5
+   }
+  ],
+  "bedRustle": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_BEDRUSTLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bedRustle1": [
+   {
+    "array": "MISC_BEDRUSTLE",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "missionary_cumMSG1": [
+   {
+    "array": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "carry_introMSG1": [
+   {
+    "array": "GIRLS_ELLIE_HMPH",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "carry_introMSG2": [
+   {
+    "array": "GIRLS_ELLIE_GIGGLE",
+    "index": 3,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "lipsound": [
+   {
+    "array": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cum": [
+   {
+    "array": "MISC_INSERTS",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "pound": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "bia": {
+  "stripMSG1": [
+   {
+    "array": "GIRLS_BIA_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_hornyMSG1": [
+   {
+    "array": "GIRLS_BIA_HEY",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_hornyMSG2": [
+   {
+    "array": "GIRLS_BIA_GIGGLE",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_hornyMSG3": [
+   {
+    "array": "GIRLS_BIA_BREATH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_hornyMSG4": [
+   {
+    "array": "GIRLS_BIA_HUH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_responseMSG1": [
+   {
+    "array": "GIRLS_BIA_HUH",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_responseMSG2": [
+   {
+    "array": "GIRLS_BIA_BREATH",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "talk_responseMSG3": [
+   {
+    "array": "GIRLS_BIA_GIGGLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_prepareMSG1": [
+   {
+    "array": "MISC_PLOB",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_prepareMSG2": [
+   {
+    "array": "MISC_BEDRUSTLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_startMSG1": [
+   {
+    "array": "GIRLS_BIA_MMM",
+    "index": 3,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": 34,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_fastMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_slowMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_startMSG2": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "anal_cumMSG2": [
+   {
+    "array": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "headpatMSG1": [
+   {
+    "array": "GIRLS_BIA_BREATH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "headpatMSG2": [
+   {
+    "array": "GIRLS_BIA_MMM",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "headpatMSG3": [
+   {
+    "array": "GIRLS_BIA_HUH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "headpatMSG4": [
+   {
+    "array": "GIRLS_BIA_GIGGLE",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "sitdownMSG1": [
+   {
+    "array": "GIRLS_BIA_BREATH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "slide": [
+   {
+    "array": "MISC_SLIDE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "pound": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyMoan": [
+   {
+    "array": "GIRLS_BIA_MMM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cum": [
+   {
+    "array": "MISC_INSERTS",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "orgasm1": [
+   {
+    "array": "GIRLS_BIA_MMM",
+    "index": 6,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "orgasm2": [
+   {
+    "array": "GIRLS_BIA_MMM",
+    "index": 7,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "luna": {
+  "attackSound": [
+   {
+    "vanilla": "entity.player.attack.strong",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "eat": [
+   {
+    "array": "MISC_EAT",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "eatPay": [
+   {
+    "array": "MISC_EAT",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "burp": [
+   {
+    "vanilla": "entity.player.burp",
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG1": [
+   {
+    "array": "MISC_PLOB",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG2": [
+   {
+    "array": "GIRLS_LUNA_HUH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG4": [
+   {
+    "array": "GIRLS_LUNA_OWO",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "breath": [
+   {
+    "array": "GIRLS_LUNA_LIGHTBREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "rod_breath": [
+   {
+    "array": "GIRLS_LUNA_LIGHTBREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "happyOh": [
+   {
+    "array": "GIRLS_LUNA_HAPPYOH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cutenya3": [
+   {
+    "array": "GIRLS_LUNA_CUTENYA",
+    "index": 3,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cutenya2": [
+   {
+    "array": "GIRLS_LUNA_CUTENYA",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "huh": [
+   {
+    "array": "GIRLS_LUNA_HUH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "hmph": [
+   {
+    "array": "GIRLS_LUNA_HMPH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "hehe": [
+   {
+    "array": "GIRLS_LUNA_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "giggle": [
+   {
+    "array": "GIRLS_LUNA_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "singing": [
+   {
+    "array": "GIRLS_LUNA_SINGING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "touch_boobsMSG1": [
+   {
+    "array": "GIRLS_LUNA_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "touch": [
+   {
+    "array": "MISC_TOUCH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "jump": [
+   {
+    "array": "MISC_JUMP",
+    "index": 0,
+    "volume": 0.2,
+    "chance": 1.0
+   }
+  ],
+  "horninya": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "horninya2": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 5.0,
+    "chance": 1.0
+   }
+  ],
+  "touch_boobs_cumMSG3": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 5.0,
+    "chance": 1.0
+   }
+  ],
+  "sitting_cumMSG1": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 5.0,
+    "chance": 1.0
+   }
+  ],
+  "moan": [
+   {
+    "array": "GIRLS_LUNA_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "moanOrNya": [
+   {
+    "array": "GIRLS_LUNA_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "touch_boobs_cumMSG1": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": 3,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "touch_boobs_cumMSG2": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": 9,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "call_playerMSG1": [
+   {
+    "array": "GIRLS_LUNA_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "pounding": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "sitting_introMSG1": [
+   {
+    "array": "GIRLS_LUNA_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "sitting_slowMSG1": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "array": "GIRLS_LUNA_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_LUNA_LIGHTBREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "sitting_fastMSG1": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_LUNA_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "headpatMSG1": [
+   {
+    "array": "GIRLS_LUNA_HUH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "headpatMSG2": [
+   {
+    "array": "GIRLS_LUNA_MMM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "headpatMSG3": [
+   {
+    "array": "GIRLS_LUNA_HORNINYA",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "allie": {
+  "summonMSG1": [
+   {
+    "array": "GIRLS_ALLIE_SCAWY",
+    "index": 0,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "summonMSG4": [
+   {
+    "array": "GIRLS_ALLIE_LIGHTBREATHING",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "summonMSG5": [
+   {
+    "array": "GIRLS_ALLIE_HMPH",
+    "index": 4,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "summonMSG6": [
+   {
+    "array": "GIRLS_ALLIE_GIGGLE",
+    "index": 3,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "summonMSG8": [
+   {
+    "array": "GIRLS_ALLIE_HUH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "deepthroat_prepareMSG1": [
+   {
+    "array": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "deepthroat_prepareMSG2": [
+   {
+    "array": "GIRLS_ALLIE_SIGH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "scream": [
+   {
+    "array": "MISC_SCREAM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "deepthroat_fastMSG1": [
+   {
+    "array": "GIRLS_ALLIE_BJMOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "deepthroat_slowMSG1": [
+   {
+    "array": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_ALLIE_BJMOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "deepthroat_cumMSG1": [
+   {
+    "array": "GIRLS_ALLIE_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": -1,
+    "volume": 1.5,
+    "chance": 1.0
+   }
+  ],
+  "summon_normalMSG3": [
+   {
+    "array": "GIRLS_ALLIE_HMPH",
+    "index": 4,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "summon_normalMSG5": [
+   {
+    "array": "GIRLS_ALLIE_HUH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "deepthroat_normal_prepareMSG1": [
+   {
+    "array": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "rich_MSG1": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "summon_sandMSG1": [
+   {
+    "array": "GIRLS_ALLIE_SCAWY",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "giggle": [
+   {
+    "array": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "pounding": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "moan": [
+   {
+    "array": "GIRLS_ALLIE_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "mmm": [
+   {
+    "array": "GIRLS_ALLIE_MMM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "slide": [
+   {
+    "array": "MISC_SLIDE",
+    "index": -1,
+    "volume": 0.0,
+    "chance": 1.0
+   }
+  ],
+  "slowMoan": [
+   {
+    "array": "GIRLS_ALLIE_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "fastMoan": [
+   {
+    "array": "GIRLS_ALLIE_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cum": [
+   {
+    "array": "MISC_INSERTS",
+    "index": -1,
+    "volume": 6.0,
+    "chance": 1.0
+   }
+  ],
+  "aftermoan": [
+   {
+    "array": "GIRLS_ALLIE_AFTERSESSIONMOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "kobold": {
+  "attackSound": [
+   {
+    "vanilla": "entity.player.attack.strong",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paymentMSG1": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "plob": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "lipsound": [
+   {
+    "array": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.5,
+    "chance": 0.5
+   },
+   {
+    "array": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.5,
+    "chance": 0.5
+   }
+  ],
+  "touch": [
+   {
+    "array": "MISC_TOUCH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cumLoud": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0,
+    "chance": 1.0
+   }
+  ],
+  "cumQuiet": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 1.5,
+    "chance": 1.0
+   }
+  ],
+  "pounding": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cum": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 2.0,
+    "chance": 1.0
+   }
+  ],
+  "giggle": [
+   {
+    "array": "GIRLS_KOBOLD_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "moan": [
+   {
+    "array": "GIRLS_KOBOLD_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "moanMating": [
+   {
+    "array": "GIRLS_KOBOLD_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "analHardMSG1": [
+   {
+    "array": "GIRLS_KOBOLD_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "orgasm": [
+   {
+    "array": "GIRLS_KOBOLD_ORGASM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "breath": [
+   {
+    "array": "GIRLS_KOBOLD_LIGHTBREATHING",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "haa": [
+   {
+    "array": "GIRLS_KOBOLD_HAA",
+    "index": -1,
+    "volume": 0.7,
+    "chance": 1.0
+   }
+  ],
+  "interested": [
+   {
+    "array": "GIRLS_KOBOLD_INTERESTED",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "yep": [
+   {
+    "array": "GIRLS_KOBOLD_YEP",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjmoan": [
+   {
+    "array": "GIRLS_KOBOLD_BJMOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "renderEgg": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ]
+ },
+ "goblin": {
+  "catchEh": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "catchAkward": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "catchWell": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "catchRather": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "catchMe": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paizuriChoice": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paizuriBoth": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "paizruiUse": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "touch": [
+   {
+    "array": "MISC_TOUCH",
+    "index": -1,
+    "volume": 3.0,
+    "chance": 1.0
+   }
+  ],
+  "pound": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "smallPound": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.25,
+    "chance": 1.0
+   }
+  ],
+  "cumSound": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0,
+    "chance": 1.0
+   }
+  ],
+  "breedingHmm": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "breedingFound": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "breedingEnough": [
+   {
+    "array": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cum": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 2.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "galath": {
+  "goodTiming": [
+   {
+    "array": "GIRLS_GALATH_DIALOG",
+    "index": 4,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "huh": [
+   {
+    "array": "GIRLS_GALATH_HUH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "giggle": [
+   {
+    "array": "GIRLS_GALATH_GIGGLE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "dialog1": [
+   {
+    "array": "GIRLS_GALATH_DIALOG",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "moan": [
+   {
+    "array": "GIRLS_GALATH_MOAN",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "breath": [
+   {
+    "array": "GIRLS_GALATH_BREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "dialog5": [
+   {
+    "array": "GIRLS_GALATH_DIALOG",
+    "index": 5,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "switchmoan": [
+   {
+    "array": "GIRLS_GALATH_BREATHING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "GIRLS_GALATH_AHH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "lightcharge": [
+   {
+    "array": "GIRLS_GALATH_LIGHTCHARGE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "strongcharge": [
+   {
+    "array": "GIRLS_GALATH_STRONGCHARGE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "hmph": [
+   {
+    "array": "GIRLS_GALATH_HMPH",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "cum": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 2.0,
+    "chance": 1.0
+   }
+  ],
+  "giggle0": [
+   {
+    "array": "GIRLS_GALATH_GIGGLE",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "orgasm": [
+   {
+    "array": "GIRLS_GALATH_ORGASM",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "pound": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "flap": [
+   {
+    "array": "MISC_FLAP",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "poundRape": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "creampie": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0,
+    "chance": 1.0
+   }
+  ],
+  "creampieGalath": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0,
+    "chance": 1.0
+   }
+  ],
+  "flapControlled": [
+   {
+    "array": "MISC_FLAP",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "clap": [
+   {
+    "array": "MISC_CLAP",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "energysound": [
+   {
+    "array": "MISC_BEEW",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "energy2": [
+   {
+    "array": "MISC_BEEW",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "tpSound": [
+   {
+    "array": "MISC_WEOWEO",
+    "index": 2,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "lick": [
+   {
+    "array": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "boostSound": [
+   {
+    "array": "GIRLS_GALATH_LIGHTCHARGE",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_FLAP",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "slime": {
+  "bjiMSG11": [
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "bjiMSG12": [
+   {
+    "vanilla": "entity.slime.hurt_small",
+    "volume": 0.5,
+    "chance": 0.2
+   },
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 0.5,
+    "chance": 1.0
+   }
+  ],
+  "bjtMSG1": [
+   {
+    "vanilla": "entity.slime.squish",
+    "volume": 1.0,
+    "chance": 1.0
+   },
+   {
+    "vanilla": "entity.slime.hurt",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG1": [
+   {
+    "vanilla": "entity.slime.hurt_small",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "bjcMSG2": [
+   {
+    "vanilla": "entity.slime.hurt_small",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyslowMSG2": [
+   {
+    "vanilla": "entity.slime.squish",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyGoOnBedMSG1": [
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG1": [
+   {
+    "array": "MISC_TOUCH",
+    "index": 0,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG2": [
+   {
+    "array": "MISC_TOUCH",
+    "index": 1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG3": [
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 0.25,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG4": [
+   {
+    "array": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 1.5,
+    "chance": 1.0
+   }
+  ],
+  "doggystartMSG5": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33,
+    "chance": 1.0
+   },
+   {
+    "vanilla": "entity.slime.squish",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggyslowMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33,
+    "chance": 1.0
+   },
+   {
+    "vanilla": "entity.slime.hurt_small",
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "vanilla": "entity.slime.squish",
+    "volume": 1.0,
+    "chance": 0.5
+   }
+  ],
+  "doggyfastMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75,
+    "chance": 1.0
+   },
+   {
+    "vanilla": "entity.slime.hurt_small",
+    "volume": 1.0,
+    "chance": 0.25
+   },
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 1.0,
+    "chance": 0.5
+   },
+   {
+    "vanilla": "entity.slime.squish",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "doggycumMSG1": [
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 4.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 2.0,
+    "chance": 1.0
+   },
+   {
+    "vanilla": "entity.slime.hurt",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "jumpStart": [
+   {
+    "vanilla": "entity.slime.hurt_small",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "jumpEndSound": [
+   {
+    "vanilla": "entity.slime.squish_small",
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ },
+ "bee": {
+  "sex_fastMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "sex_startMSG1": [
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ],
+  "sex_cumMSG1": [
+   {
+    "array": "MISC_CUMINFLATION",
+    "index": -1,
+    "volume": 2.0,
+    "chance": 1.0
+   },
+   {
+    "array": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0,
+    "chance": 1.0
+   }
+  ]
+ }
+}

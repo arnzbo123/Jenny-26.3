@@ -1,0 +1,5 @@
+gradle.projectsEvaluated {
+    rootProject.configurations.findAll { it.name.toLowerCase().contains('minecraft') }.each {
+        println("MINECRAFT_CONFIGURATION=" + it.name)
+    }
+}

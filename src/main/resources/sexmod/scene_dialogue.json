@@ -1,0 +1,508 @@
+{
+ "jenny": {
+  "stripMSG1": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.hihi"
+   }
+  ],
+  "paymentMSG1": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.huh"
+   }
+  ],
+  "paymentMSG2": [
+   {
+    "speaker": "player",
+    "key": "jenny.dialogue.showBobsandveganapls"
+   },
+   {
+    "speaker": "player",
+    "key": "jenny.dialogue.giveblowjob"
+   },
+   {
+    "speaker": "player",
+    "key": "jenny.dialogue.givesex"
+   },
+   {
+    "speaker": "player",
+    "key": "jenny.dialogue.givebooba"
+   },
+   {
+    "speaker": "player",
+    "text": "sex pls"
+   }
+  ],
+  "paymentMSG3": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.hehe"
+   }
+  ],
+  "bjiMSG1": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext1"
+   }
+  ],
+  "bjiMSG2": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext2"
+   }
+  ],
+  "bjiMSG3": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext3"
+   }
+  ],
+  "bjiMSG5": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext4"
+   }
+  ],
+  "bjiMSG6": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext5"
+   }
+  ],
+  "bjiMSG7": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext6"
+   }
+  ],
+  "bjiMSG8": [
+   {
+    "speaker": "player",
+    "key": "jenny.dialogue.blowjobtext7"
+   }
+  ],
+  "bjiMSG9": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.blowjobtext8"
+   }
+  ],
+  "doggyGoOnBedMSG2": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.doggytext1"
+   }
+  ],
+  "doggyGoOnBedMSG3": [
+   {
+    "speaker": "girl",
+    "key": "jenny.dialogue.doggytext2"
+   }
+  ]
+ },
+ "ellie": {
+  "hugMSG2": [
+   {
+    "speaker": "girl",
+    "text": "Hmm..."
+   }
+  ],
+  "hugMSG3": [
+   {
+    "speaker": "girl",
+    "text": "Hey!"
+   }
+  ],
+  "hugMSG4": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.mommyhorny"
+   }
+  ],
+  "hugMSG5": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.whattodo"
+   }
+  ],
+  "hugselectedMSG1": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.iknow"
+   }
+  ],
+  "hugselectedMSG2": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.followmedarling"
+   }
+  ],
+  "sitdownMSG1": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.cometomommy"
+   }
+  ],
+  "cowgirlStartMSG1": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.like"
+   }
+  ],
+  "cowgirlcumMSG5": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.goodboy"
+   }
+  ],
+  "missionary_cumMSG2": [
+   {
+    "speaker": "girl",
+    "key": "ellie.dialogue.goodboy"
+   }
+  ],
+  "carry_introMSG1": [
+   {
+    "speaker": "girl",
+    "text": "I'm hungry.."
+   }
+  ],
+  "carry_introMSG2": [
+   {
+    "speaker": "girl",
+    "text": "heh~"
+   }
+  ]
+ },
+ "bia": {
+  "stripMSG1": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.hihi"
+   }
+  ],
+  "talk_hornyMSG1": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.heya"
+   }
+  ],
+  "talk_hornyMSG2": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.horny"
+   }
+  ],
+  "talk_hornyMSG3": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.so"
+   }
+  ],
+  "talk_hornyMSG4": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.fun"
+   }
+  ],
+  "talk_responseMSG1": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.huh"
+   }
+  ],
+  "talk_responseMSG2": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.iuhm"
+   }
+  ],
+  "talk_responseMSG3": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.yes"
+   }
+  ],
+  "headpatMSG1": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.headpats"
+   }
+  ],
+  "headpatMSG2": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.hmm"
+   }
+  ],
+  "headpatMSG3": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.huh2"
+   }
+  ],
+  "headpatMSG4": [
+   {
+    "speaker": "girl",
+    "key": "bia.dialogue.thankyou"
+   }
+  ],
+  "sitdownMSG1": [
+   {
+    "speaker": "girl",
+    "text": "come here big boy~"
+   }
+  ]
+ },
+ "luna": {
+  "paymentMSG2": [
+   {
+    "speaker": "girl",
+    "text": "huh~?"
+   }
+  ],
+  "paymentMSG3": [
+   {
+    "speaker": "girl",
+    "text": "nyyyaaaa~ :D"
+   }
+  ],
+  "paymentMSG4": [
+   {
+    "speaker": "girl",
+    "text": "tankuuuu owowowo"
+   }
+  ],
+  "touch_boobsMSG1": [
+   {
+    "speaker": "girl",
+    "text": "comon~ touch me hihi~"
+   }
+  ],
+  "call_playerMSG1": [
+   {
+    "speaker": "girl",
+    "text": "come here - big guy hehe~"
+   }
+  ],
+  "sitting_introMSG1": [
+   {
+    "speaker": "girl",
+    "text": "hehe~"
+   }
+  ],
+  "headpatMSG1": [
+   {
+    "speaker": "girl",
+    "text": "huh?~"
+   }
+  ],
+  "headpatMSG3": [
+   {
+    "speaker": "girl",
+    "text": "nya~"
+   }
+  ]
+ },
+ "allie": {
+  "summonMSG1": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon1"
+   }
+  ],
+  "summonMSG2": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon2"
+   }
+  ],
+  "summonMSG3": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon3"
+   }
+  ],
+  "summonMSG4": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon4"
+   }
+  ],
+  "summonMSG5": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon5"
+   }
+  ],
+  "summonMSG6": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon6"
+   }
+  ],
+  "summonMSG7": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon7"
+   }
+  ],
+  "summonMSG8": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.summon8"
+   }
+  ],
+  "deepthroat_prepareMSG1": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.hihi"
+   }
+  ],
+  "deepthroat_prepareMSG2": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.boys"
+   }
+  ],
+  "summon_normalMSG1": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.sup"
+   }
+  ],
+  "summon_normalMSG2": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.youhave"
+   }
+  ],
+  "summon_normalMSG3": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.2wishes"
+   },
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.1wish"
+   }
+  ],
+  "summon_normalMSG4": [
+   {
+    "speaker": "girl",
+    "text": "So..."
+   }
+  ],
+  "summon_normalMSG5": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.tellme"
+   }
+  ],
+  "deepthroat_normal_prepareMSG1": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.alright"
+   }
+  ],
+  "rich_MSG1": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.wishgranted"
+   }
+  ],
+  "summon_sandMSG1": [
+   {
+    "speaker": "girl",
+    "key": "allie.dialogue.nooo"
+   }
+  ]
+ },
+ "kobold": {
+  "cumMsg": [
+   {
+    "speaker": "girl",
+    "text": "I.. hope I am satisfying you sir"
+   }
+  ]
+ },
+ "goblin": {
+  "catchEh": [
+   {
+    "speaker": "girl",
+    "text": "ehh.."
+   }
+  ],
+  "catchAkward": [
+   {
+    "speaker": "girl",
+    "text": "awkward.."
+   }
+  ],
+  "catchWell": [
+   {
+    "speaker": "girl",
+    "text": "well..."
+   }
+  ],
+  "catchRather": [
+   {
+    "speaker": "girl",
+    "text": "would you rather have this stupid... thing?"
+   }
+  ],
+  "catchMe": [
+   {
+    "speaker": "girl",
+    "text": "...or use me?~"
+   }
+  ],
+  "paizuriChoice": [
+   {
+    "speaker": "girl",
+    "text": "good choice!~"
+   }
+  ],
+  "paizuriBoth": [
+   {
+    "speaker": "girl",
+    "text": "...for both of us!"
+   }
+  ],
+  "paizruiUse": [
+   {
+    "speaker": "girl",
+    "text": "now use me like a fuck toy!~"
+   }
+  ],
+  "breedingHmm": [
+   {
+    "speaker": "girl",
+    "text": "hmm..."
+   }
+  ],
+  "breedingFound": [
+   {
+    "speaker": "girl",
+    "text": "guess we found a worthy breeding partner!"
+   }
+  ],
+  "breedingEnough": [
+   {
+    "speaker": "girl",
+    "text": "Eh.. go pin him down, before he runs off!"
+   }
+  ]
+ },
+ "galath": {
+  "goodTiming": [
+   {
+    "speaker": "girl",
+    "text": "Good timing boy~"
+   }
+  ]
+ },
+ "slime": {},
+ "bee": {}
+}

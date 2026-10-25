@@ -1,0 +1,113 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version "${loom_version}"
+}
+
+version = project.mod_version
+group = project.maven_group
+base { archivesName = project.archives_base_name }
+
+repositories {
+    exclusiveContent {
+        forRepository {
+            maven {
+                name = 'GeckoLib'
+                url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+            }
+        }
+        filter { includeGroupAndSubgroups('com.geckolib') }
+    }
+}
+
+sourceSets { worldTest }
+configurations.worldTestImplementation.extendsFrom(configurations.implementation)
+sourceSets.worldTest.compileClasspath += sourceSets.main.output + sourceSets.main.compileClasspath
+sourceSets.worldTest.runtimeClasspath += sourceSets.main.output + sourceSets.main.runtimeClasspath
+
+loom {
+    splitEnvironmentSourceSets()
+    mods {
+        sexmod {
+            sourceSet sourceSets.main
+            sourceSet sourceSets.client
+        }
+        if (providers.gradleProperty('worldTests').isPresent()) {
+            sexmod_world_test { sourceSet sourceSets.worldTest }
+        }
+    }
+    if (providers.gradleProperty('worldTests').isPresent()) {
+        runs.server.vmArg('-Dgoodcraft.runWorldTests=true')
+        runs.server.source(sourceSets.worldTest)
+    }
+}
+
+// GeckoLib 5's GeoItem provider exposes annotated client render types in its
+// public interface. javac must resolve those annotations even in common item
+// code. This is compile-only; the dedicated-server runtime stays server-only.
+sourceSets.main.compileClasspath += configurations.minecraftClientOnlyNamedCompile
+
+dependencies {
+    // Minecraft 26.x is unobfuscated: no Yarn mappings or remapped dependencies.
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+    implementation "com.geckolib:geckolib-fabric-${project.minecraft_version}:${project.geckolib_version}"
+    testImplementation platform('org.junit:junit-bom:5.12.2')
+    testImplementation "net.fabricmc:fabric-loader-junit:${project.loader_version}"
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+processResources {
+    def properties = [
+        version: project.version,
+        minecraft_version: project.minecraft_version,
+        loader_version: project.loader_version,
+        fabric_api_version: project.fabric_api_version,
+        geckolib_version: project.geckolib_version
+    ]
+    inputs.properties(properties)
+    filesMatching('fabric.mod.json') { expand(properties) }
+}
+
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(25)
+    withSourcesJar()
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.release = 25
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(Test).configureEach { useJUnitPlatform() }
+
+tasks.named('wrapper') {
+    gradleVersion = '9.6.0'
+    distributionType = Wrapper.DistributionType.BIN
+    distributionSha256Sum = 'bbaeb2fef8710818cf0e261201dab964c572f92b942812df0c3620d62a529a01'
+}
+
+// Export resolved development launches so client and local test server can run
+// together without keeping two Gradle builds competing for the project lock.
+tasks.register('writeDevLaunchSpecs') {
+    dependsOn tasks.named('classes'), tasks.named('clientClasses'), tasks.named('generateDLIConfig'),
+            tasks.named('generateLog4jConfig'), tasks.named('downloadAssets')
+    doLast {
+        ['client', 'server'].each { side ->
+            def run = loom.runs.getByName(side)
+            def task = tasks.named(side == 'client' ? 'runClient' : 'runServer').get()
+            def spec = [
+                java: javaToolchains.launcherFor { languageVersion = JavaLanguageVersion.of(25) }.get().executablePath.asFile.absolutePath,
+                cwd: run.runDirectory.get().asFile.absolutePath,
+                jvmArgs: run.jvmArguments.get(),
+                properties: run.systemProperties.get(),
+                classpath: task.classpath.asPath,
+                main: task.mainClass.get(),
+                args: task.args
+            ]
+            def target = layout.buildDirectory.file("dev-launch-${side}.json").get().asFile
+            target.parentFile.mkdirs()
+            target.text = groovy.json.JsonOutput.prettyPrint(groovy.json.JsonOutput.toJson(spec))
+        }
+    }
+}

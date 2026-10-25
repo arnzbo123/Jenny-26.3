@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "sexmod:item/legacy_spawn_egg",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 3286592
+      },
+      {
+        "type": "minecraft:constant",
+        "value": 12655237
+      }
+    ]
+  }
+}

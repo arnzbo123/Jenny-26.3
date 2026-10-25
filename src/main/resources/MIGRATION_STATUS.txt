@@ -1,0 +1,14 @@
+Goodcraft Fabric 26.3 migration development build
+
+This is NOT the completed mod and does not preserve full gameplay yet.
+
+Implemented: Fabric initialization, legacy configuration storage, persistent
+fire, sound registry, and converted resources. GeckoLib 5.5.7 can parse and
+bake all 26 supplied models and 406 animation clips. Playback controllers and
+renderers are not implemented, so this does not mean animations play in game.
+
+Still missing: NPC/player entities, bosses, spawns, structures, items and their
+interactions, inventories/screens, network handlers, commands, and save migration.
+
+Do not use this development artifact as a replacement in an existing modded
+world. See MIGRATION.md and migration/FEATURES.md in the development workspace.

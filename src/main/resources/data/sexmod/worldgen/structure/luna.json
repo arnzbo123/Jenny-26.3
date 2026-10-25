@@ -1,0 +1,10 @@
+{
+  "type": "sexmod:legacy_building",
+  "biomes": "#sexmod:has_structure/luna",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {},
+  "template": "sexmod:luna",
+  "max_height_difference": 0,
+  "foundation": false
+}

@@ -1,0 +1,10 @@
+{
+  "type": "sexmod:legacy_building",
+  "biomes": "#sexmod:has_structure/ellie",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_box",
+  "spawn_overrides": {},
+  "template": "sexmod:ellie",
+  "max_height_difference": 9,
+  "foundation": true
+}

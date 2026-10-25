@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "sexmod:item/dragon_staff",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}

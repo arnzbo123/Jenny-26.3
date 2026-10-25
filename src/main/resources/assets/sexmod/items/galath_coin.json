@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "sexmod:item/galath_coin",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}

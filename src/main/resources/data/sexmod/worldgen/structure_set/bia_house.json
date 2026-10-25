@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sexmod:bia",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 24,
+    "separation": 10,
+    "salt": 1612202616
+  }
+}

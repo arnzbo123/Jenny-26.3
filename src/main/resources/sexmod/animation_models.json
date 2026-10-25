@@ -1,0 +1,521 @@
+{
+  "jenny": {
+    "source_class": "c5",
+    "models": [
+      "jenny/jennynude",
+      "jenny/jennydressed"
+    ],
+    "texture": "textures/entity/jenny/jenny.png",
+    "animation": "jenny/jenny",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "upperBodyL",
+        "upperBodyR"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip"
+      ],
+      "e": [
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ]
+    },
+    "camera_heights": [
+      1.7353775,
+      1.7228775
+    ]
+  },
+  "ellie": {
+    "source_class": "cx",
+    "models": [
+      "ellie/nude",
+      "ellie/dressed"
+    ],
+    "texture": "textures/entity/ellie/ellie.png",
+    "animation": "ellie/ellie",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "g": [
+        "headband"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "upperBodyL",
+        "upperBodyR"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip"
+      ],
+      "e": [
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "hotpants",
+        "slip",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ]
+    },
+    "camera_heights": [
+      1.935375,
+      1.9353775
+    ]
+  },
+  "slime": {
+    "source_class": "cr",
+    "models": [
+      "slime/nude",
+      "slime/armored",
+      "slime/dressed"
+    ],
+    "texture": "textures/entity/slime/slime.png",
+    "animation": "slime/slime",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "g": [
+        "bigblob"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "upperBodyL",
+        "upperBodyR",
+        "cloth"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip"
+      ],
+      "e": [
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ]
+    },
+    "camera_heights": [
+      1.5916275,
+      1.5916275,
+      1.5916275
+    ]
+  },
+  "bia": {
+    "source_class": "cl",
+    "models": [
+      "bia/bianude",
+      "bia/biadressed"
+    ],
+    "texture": "textures/entity/bia/bia.png",
+    "animation": "bia/bia",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "g": [
+        "leaf7",
+        "leaf8"
+      ],
+      "f": [
+        "armorChest",
+        "armorBoobs",
+        "armorShoulderR",
+        "armorShoulderL"
+      ],
+      "a": [
+        "bra",
+        "upperBodyR",
+        "upperBodyL"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip"
+      ],
+      "e": [
+        "slip",
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ]
+    },
+    "camera_heights": [
+      1.413625,
+      1.413625
+    ]
+  },
+  "bee": {
+    "source_class": "c0",
+    "models": [
+      "bee/bee",
+      "bee/armored"
+    ],
+    "texture": "textures/entity/bee/bee.png",
+    "animation": "bee/bee",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "g": [
+        "band",
+        "feeler",
+        "feeler2",
+        "brow",
+        "brow2",
+        "brow3",
+        "brow4"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "upperBodyL",
+        "upperBodyR"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip"
+      ],
+      "e": [
+        "sideL",
+        "sideR",
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ]
+    },
+    "camera_heights": [
+      1.3603775,
+      1.3603775
+    ]
+  },
+  "luna": {
+    "source_class": "cg",
+    "models": [
+      "cat/cat",
+      "cat/cat"
+    ],
+    "texture": "textures/entity/cat/cat.png",
+    "animation": "cat/cat",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "cloth"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip"
+      ],
+      "e": [
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR",
+        "cloth"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ]
+    },
+    "camera_heights": [
+      1.3603775,
+      1.3603775
+    ]
+  },
+  "allie": {
+    "source_class": "c2",
+    "models": [
+      "allie/allie",
+      "allie/armored",
+      "allie/allie"
+    ],
+    "texture": "textures/entity/allie/allie.png",
+    "animation": "allie/allie",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "clothes",
+        "clothesR",
+        "clothesL"
+      ]
+    },
+    "camera_heights": [
+      1.7353775,
+      1.7353775,
+      1.7353775
+    ]
+  },
+  "kobold": {
+    "source_class": "c9",
+    "models": [
+      "kobold/kobold",
+      "kobold/armored"
+    ],
+    "texture": "textures/entity/kobold/kobold.png",
+    "animation": "kobold/kobold",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "f": [
+        "armorShoulderR",
+        "armorShoulderL",
+        "armorChest",
+        "armorBoobs"
+      ],
+      "a": [
+        "boobsFlesh",
+        "upperBodyL",
+        "upperBodyR"
+      ],
+      "h": [
+        "armorBootyR",
+        "armorBootyL",
+        "armorPantsLowL",
+        "armorPantsLowR",
+        "armorPantsLowR",
+        "armorPantsUpR",
+        "armorPantsUpL",
+        "armorHip",
+        "armorKneeR",
+        "armorKneeL"
+      ],
+      "e": [
+        "fleshL",
+        "fleshR",
+        "vagina",
+        "fuckhole",
+        "curvesL",
+        "curvesR",
+        "kneeL",
+        "kneeR"
+      ],
+      "b": [
+        "armorShoesL",
+        "armorShoesR"
+      ],
+      "d": [
+        "toesR",
+        "toesL"
+      ]
+    },
+    "camera_heights": [
+      1.28690125,
+      1.29944
+    ]
+  },
+  "goblin": {
+    "source_class": "ci",
+    "models": [
+      "goblin/goblin",
+      "goblin/armored"
+    ],
+    "texture": "textures/entity/goblin/goblin.png",
+    "animation": "goblin/goblin",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ],
+      "f": [
+        "armorBoobL",
+        "armorBoobR"
+      ],
+      "a": [
+        "nippleL",
+        "nippleR"
+      ],
+      "h": [
+        "armorCheekR",
+        "armorCheekL",
+        "armorLegL",
+        "armorLegR",
+        "armorShinL",
+        "armorShinR",
+        "armorTorso"
+      ],
+      "e": [
+        "fuckhole",
+        "vagina",
+        "meatCheekR",
+        "meatCheekL",
+        "meatLegL",
+        "meatLegR",
+        "meatShinL",
+        "meatShinR"
+      ],
+      "b": [
+        "armorFootL",
+        "armorFootR"
+      ],
+      "d": [
+        "meatFootL",
+        "meatFootR"
+      ]
+    },
+    "camera_heights": [
+      0.799425625,
+      0.799425625
+    ]
+  },
+  "galath": {
+    "source_class": "cb",
+    "models": [
+      "galath/galath",
+      "galath/galath",
+      "galath/galath_con_mang"
+    ],
+    "texture": "textures/entity/galath/galath.png",
+    "animation": "galath/galath",
+    "armor_groups": {
+      "c": [
+        "armorHelmet"
+      ]
+    },
+    "camera_heights": [
+      1.874208125,
+      1.874208125,
+      1.874208125
+    ]
+  },
+  "manglelie": {
+    "source_class": "ce",
+    "models": [
+      "manglelie/manglelie",
+      "manglelie/manglelie",
+      "galath/galath_con_mang"
+    ],
+    "texture": "textures/entity/manglelie/manglelie.png",
+    "animation": "manglelie/manglelie",
+    "armor_groups": {},
+    "camera_heights": [
+      1.419458125,
+      1.419458125,
+      1.874208125
+    ]
+  }
+}

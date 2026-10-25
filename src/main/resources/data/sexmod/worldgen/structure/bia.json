@@ -1,0 +1,10 @@
+{
+  "type": "sexmod:legacy_building",
+  "biomes": "#sexmod:has_structure/bia",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_box",
+  "spawn_overrides": {},
+  "template": "sexmod:bia",
+  "max_height_difference": 2,
+  "foundation": true
+}

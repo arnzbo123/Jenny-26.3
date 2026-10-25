@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.arn.goodmod.client.render.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["PlayerFormVisibilityMixin", "PlayerFormCameraMixin", "PlayerFormHandsMixin", "SceneInputMixin", "ClientInputAccessor", "SceneCameraMixin", "SceneClickMixin"],
+  "injectors": {"defaultRequire": 1}
+}

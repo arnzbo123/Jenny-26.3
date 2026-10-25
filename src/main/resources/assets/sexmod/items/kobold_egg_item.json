@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "sexmod:item/kobold_egg_item",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}
